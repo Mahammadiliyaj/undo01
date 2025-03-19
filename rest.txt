@@ -1,0 +1,3 @@
+using soft reset to roll back from commit area to staging area
+using mixed reset to roll back from comiit area to working area
+using had reset to roll back and checkout from commit area to working area
