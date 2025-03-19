@@ -1,0 +1,2 @@
+rollback from commit area to staging area
+other line is added[
